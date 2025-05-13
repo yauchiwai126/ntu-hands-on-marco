@@ -190,7 +190,7 @@ header .h-control :-moz-placeholder {
 
 header .navbar.sub-navbar {
   height: 60px;
-  background-color: white;
+  background-color: yellow;
   font-size: 15px;
   color: #b4b2bb;
   padding-top: 0;
